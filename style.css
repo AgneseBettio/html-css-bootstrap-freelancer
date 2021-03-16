@@ -39,8 +39,21 @@ nav{
 }
 .contact-list{
     background-color:white;
-    height: 200px;
+    height: 100px;
     width: 150px;
     margin: auto;
     
+}
+footer{
+    background-color: darkslateblue;
+}
+.location, .social, .freelance{
+    background-color: white;
+    height: 50px;
+    margin: 5px;
+}
+.row.copyright{
+    background-color: dodgerblue;
+    text-align: center;
+    min-height: 50px;
 }
