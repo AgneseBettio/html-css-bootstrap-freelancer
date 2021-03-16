@@ -1,4 +1,46 @@
-.hero-img{
-    width: 50px;
+/* WIDTH E HEIGHTLAYOUT ESERCITAZIONE 16/03*/
+nav{
     height:50px;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+.jumbotron-section{
+    height: 100px;
+    width: 100%;
+    background-color: cadetblue;
+    text-align: center;
+}
+.hero-section{
+    background-color: burlywood;
+    text-align: center;
+}
+.hero-img{
+    height: 150px;
+    margin: 10px;
+    background-color: chartreuse;
+}
+.banner-section{
+    background-color: cornsilk;
+    text-align: center;
+}
+.about-text{
+    height: 150px;
+    margin: 10px;
+    background-color: chartreuse;
+    padding: 10px 10px;
+}
+.btn{
+    background-color: darkgray;
+}
+.contatti{
+    background-color: darkkhaki;
+    text-align: center;
+}
+.contact-list{
+    background-color:white;
+    height: 200px;
+    width: 150px;
+    margin: auto;
+    
 }
