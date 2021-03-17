@@ -17,12 +17,13 @@
     padding-bottom: 20px;
 }
 .img-box{
-    max-width: 150px;
+    max-width: 200px;
+    padding: 5px;
 }
 .img-star{
     display: inline;
     margin: 0 5px;
-    max-width: 30px;
+    max-width: 25px;
 }
 .star-break{
     margin-bottom: 10px;
@@ -36,7 +37,20 @@ span.line-white{
     border-top: 0.5px solid #ffffff;
     border-bottom: 0.5px solid #ffffff; 
 }
-
+span.line-blue{
+    margin-right: 5px;
+    margin-left: 5px;
+    width:80px;
+    display: inline-block;
+    background-color: #2C3E50;
+    border-top: 0.5px solid #2C3E50;
+    border-bottom: 0.5px solid #2C3E50; 
+}
+.portfolio-section img.img-portfolio{
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 footer{
     background-color: #2C3E50;
