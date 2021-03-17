@@ -2,6 +2,7 @@
 
 .bg-green{
     background-color: #1ABC9C;
+    color: #ffffff;
 }
 .navbar-styled{
     background-color: #2C3E50;
@@ -11,6 +12,32 @@
 .navbar-styled a{
     color: #ffffff;
 }
+.section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.img-box{
+    max-width: 150px;
+}
+.img-star{
+    display: inline;
+    margin: 0 5px;
+    max-width: 30px;
+}
+.star-break{
+    margin-bottom: 10px;
+}
+span.line-white{
+    margin-right: 5px;
+    margin-left: 5px;
+    width:80px;
+    display: inline-block;
+    background-color: #ffffff;
+    border-top: 0.5px solid #ffffff;
+    border-bottom: 0.5px solid #ffffff; 
+}
+
+
 footer{
     background-color: #2C3E50;
     height: 100px;
