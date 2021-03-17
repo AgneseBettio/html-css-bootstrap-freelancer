@@ -60,6 +60,11 @@ span.line-blue{
     color: #ffffff;
     background-color: #d3d3d3;
 }
+form .my-form-control{
+    border-radius: 0;
+    border:none;
+    color:#2C3E50;
+}
 
 footer{
     background-color: #2C3E50;
