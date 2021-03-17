@@ -51,6 +51,15 @@ span.line-blue{
     margin-top: 15px;
     margin-bottom: 15px;
 }
+.btn-download{
+    background-color: transparent;
+    border-color: #ffffff;
+    margin-top: 10px;
+}
+.btn-download:hover, .btn-download:focus{
+    color: #ffffff;
+    background-color: #d3d3d3;
+}
 
 footer{
     background-color: #2C3E50;
