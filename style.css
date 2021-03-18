@@ -10,6 +10,8 @@
 .bg-darker{
     background-color: #2C3E50;
 }
+
+
 .navbar-styled{
     background-color: #3A546D;
     margin-bottom: 0;
@@ -18,10 +20,17 @@
 .navbar-styled a{
     color: #ffffff;
 }
+.navbar-toggle>.icon-bar{
+    background-color: white;   
+}
+
+
 .section{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+
 .img-box{
     max-width: 200px;
     padding: 5px;
@@ -37,7 +46,7 @@
 span.line-white{
     margin-right: 5px;
     margin-left: 5px;
-    width:80px;
+    width: 80px;
     display: inline-block;
     background-color: #ffffff;
     border-top: 0.5px solid #ffffff;
@@ -89,6 +98,9 @@ footer{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+footer .copyright{
+    padding: 20px 0;
+}
 footer .footer-img-box{
     max-width: 35px;
     max-height: 35px;
@@ -98,6 +110,4 @@ footer .footer-img-box{
     display: inline-block;
     margin-left: 5px;
 }
-footer .copyright{
-    padding: 20px 0;
-}
+
